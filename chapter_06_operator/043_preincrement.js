@@ -3,8 +3,8 @@
 // let b = ++a; // (increment the a by 1)
 
 // // Pre increment -> ++a ->. increse the value and then assign.
-// console.log(b);
-// console.log(a);
+// console.log(b); // 11
+// console.log(a);// 11
 
 
 // // Deincrement
@@ -14,6 +14,6 @@
 // console.log(a);  // 9
 
 let a = 10;
-let b = a--; // (increment the a by 1)
+let b = a--; // (decrement the a by 1)
 console.log(b); // 10
 console.log(a);  // 9
