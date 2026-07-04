@@ -16,3 +16,18 @@
 
 //     r1.close();
 // });
+
+/**
+ require() – imports a module.
+readline – built-in Node.js module for reading terminal input.
+createInterface() – creates a connection to the terminal.
+process.stdin – reads keyboard input.
+process.stdout – writes output to the terminal.
+rl.question() – asks the user for input and waits asynchronously.
+Arrow function (input) => {} – callback that executes after input is received.
+Number() – converts a string to a number.
+% – modulus operator to check the remainder.
+if...else – conditional branching.
+console.log() – prints output.
+rl.close() – closes the input interface so the program exits cleanly.
+**/

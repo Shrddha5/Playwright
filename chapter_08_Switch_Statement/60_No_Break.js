@@ -1,4 +1,5 @@
 // Switch
+// not using break statement so it will execute all the cases after the matched case
 // 0 - Sunday, 1 - Monday, 2 - Tue.....
 let day = 2;
 switch (day) {
